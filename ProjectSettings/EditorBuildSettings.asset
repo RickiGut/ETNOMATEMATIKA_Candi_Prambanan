@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/splashScreen.unity
+    guid: 8e3225f5ba2982246a2fa8d35f1c9b2f
+  - enabled: 1
+    path: Assets/Scenes/mainScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/gameOption.unity
+    guid: 522a77cd3e7b4624ea0b8b63c49cb068
+  - enabled: 1
+    path: Assets/Scenes/arOptionScene.unity
+    guid: 92503056e8b2fb342974744264592b37
+  - enabled: 1
+    path: Assets/Scenes/gameMedium.unity
+    guid: b5ee83fec026d2e4f93552e2b3332872
+  - enabled: 1
+    path: Assets/Scenes/Scene Materi/materiScene.unity
+    guid: af86ad7e3f04e5642a0d54c7771ea89c
+  - enabled: 1
+    path: Assets/Scenes/gameHard.unity
+    guid: d64f81990d520314380a8753ba698a83
+  - enabled: 1
+    path: Assets/Scenes/Scene Materi/materiBangunDatar.unity
+    guid: d5023f38285880844a16dac219b7f0aa
+  - enabled: 1
+    path: Assets/Scenes/gameEasy.unity
+    guid: 116d83d4302061546a423eb08bc2e28b
+  - enabled: 1
+    path: Assets/Scenes/Scene Materi/materiBangunRuang.unity
+    guid: 02a560d8876ddc846b96a6b940f3ef5f
+  - enabled: 1
+    path: Assets/Scenes/Scene Materi/materiBangunRuangDatar.unity
+    guid: dbd4408060b1f694aa52400da75318af
+  - enabled: 1
+    path: Assets/Scenes/Scene Materi/materiBangunRuangLengkung.unity
+    guid: e85f788dd2773a647a4ddd64163849c5
+  - enabled: 1
+    path: Assets/Scenes/Scene Materi/Bangun Datar/belahketupat.unity
+    guid: ad435470279409b468027a705c1a1f0c
+  - enabled: 1
+    path: Assets/Scenes/Scene Materi/Bangun Datar/jajargenjang.unity
+    guid: f6673eda5a896f04a93df2b1379affc2
+  - enabled: 1
+    path: Assets/Scenes/Scene Materi/Bangun Datar/layang.unity
+    guid: 3238f8fc5d38de441a5e990997fc312e
+  - enabled: 1
+    path: Assets/Scenes/Scene Materi/Bangun Datar/lingkaran.unity
+    guid: 1e0ac55d72b51df4db3f570a70142674
+  - enabled: 1
+    path: Assets/Scenes/Scene Materi/Bangun Datar/persegi.unity
+    guid: ec1128d797ec89f4e963e3b7b31f783c
+  - enabled: 1
+    path: Assets/Scenes/Scene Materi/Bangun Datar/persegipanjang.unity
+    guid: f34f2813bf2f28046a73e472691d0067
+  - enabled: 1
+    path: Assets/Scenes/Scene Materi/Bangun Datar/segitiga.unity
+    guid: 531dbd2a323e0ed45b6ed8c568bff664
+  - enabled: 1
+    path: Assets/Scenes/Scene Materi/Bangun Datar/trapesium.unity
+    guid: cc4373b807466544380016a48479812e
+  - enabled: 1
+    path: Assets/Scenes/Scene Materi/Bangun Ruang/datar/balok.unity
+    guid: 22e3c62942472f34288ad9f91f7d9847
+  - enabled: 1
+    path: Assets/Scenes/Scene Materi/Bangun Ruang/datar/kubus.unity
+    guid: 6a6fc48e4480403419de7be7879e69f6
+  - enabled: 1
+    path: Assets/Scenes/Scene Materi/Bangun Ruang/datar/limas.unity
+    guid: e304792a531ecda4a873e2d8386ef4f5
+  - enabled: 1
+    path: Assets/Scenes/Scene Materi/Bangun Ruang/datar/prisma.unity
+    guid: ffdb87744bfc5c541b62aa6acbcaf12e
+  - enabled: 1
+    path: Assets/Scenes/Scene Materi/Bangun Ruang/lengkung/bola.unity
+    guid: 57362b3b864bcea40a04c551a4f5d709
+  - enabled: 1
+    path: Assets/Scenes/Scene Materi/Bangun Ruang/lengkung/kerucut.unity
+    guid: 3e43c41ae97c86c4fb9c67c6a65f1b64
+  - enabled: 1
+    path: Assets/Scenes/Scene Materi/Bangun Ruang/lengkung/tabung.unity
+    guid: f4a370c6f396f1f489d60ea6e2a3b673
+  - enabled: 1
+    path: Assets/Scenes/Scene Panduan/panduanScene.unity
+    guid: 57e6020140c11f742b8633b9d4c253d4
+  - enabled: 1
+    path: Assets/Scenes/Scene Kuis/kuisOptionScene.unity
+    guid: 33d30b63b07182a41a92cf0c37d0dc59
+  - enabled: 1
+    path: Assets/Scenes/Scene Kuis/kuisPengetahuan.unity
+    guid: 8664efa076fbe634eab879a33a657f63
+  - enabled: 1
+    path: Assets/Scenes/Scene Kuis/kuisBerhitung.unity
+    guid: f0488791bec187c48a1aeebb84e8274f
+  - enabled: 1
+    path: Assets/Scenes/AR.unity
+    guid: c304040410d453e4f9cd9ee81ac3a3d6
+  - enabled: 1
+    path: Assets/Scenes/Scene Panduan/credit.unity
+    guid: e765ce0656096004d929db49e4af7f8f
+  - enabled: 1
+    path: Assets/Scenes/Scene Panduan/panduanAR.unity
+    guid: d4bc85a35a466c644b06c291fa3888ba
+  - enabled: 1
+    path: Assets/Scenes/Scene Panduan/panduanGame.unity
+    guid: a397d668629831940b15bd7f06e37cbe
+  - enabled: 1
+    path: Assets/Scenes/Scene Panduan/panduanKuis.unity
+    guid: 8c353b23bb622924697290e526046d60
+  - enabled: 1
+    path: Assets/Scenes/Scene Panduan/panduanMateri.unity
+    guid: e4b7d0c0390fcb24ebdc2509e148025b
+  - enabled: 1
+    path: Assets/Scenes/Scene Panduan/panduanSub.unity
+    guid: 697e0012bcf9c6b4bb02c28736ee0646
+  m_configObjects:
+    EasyAR.Settings: {fileID: 11400000, guid: 2b6dea9000241bb4ba4dd963d2004658, type: 2}
